@@ -4,8 +4,9 @@ The **Reddit Karma Farming Bot** is an Android-based bot designed to help you ma
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/37e2a734-5ed0-43c1-b0a0-f6967929e193" alt="Reddit karma Banner" width="93%">
+  <img src="https://github.com/user-attachments/assets/52c55d3f-7ca1-4229-82a1-0bfbad7235ce" alt="Reddit karma Banner" width="93%">
 </div>
+
 
 <div align="center">
   <a href="https://t.me/appilotdev">
