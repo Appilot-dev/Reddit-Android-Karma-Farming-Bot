@@ -94,4 +94,30 @@ using Reddit Karma Farmer Bot!
 
 
 
+## Why should I automate my Reddit account?
+Automating your Reddit account can save you a lot of time and effort. Reddit is growing fast and becoming more important for marketing. Recently, Reddit made a deal with Google, which means Reddit posts are often showing up at the top of search results.
+
+On Reddit, you can’t just post without building up karma (your reputation). To post in many communities, you need comment karma, which you get from upvotes on your comments. It’s all connected—posting, commenting, and getting upvotes all help each other. A bot can handle most of this for you, doing 90% of the work so you don’t have to do it all manually.
+
+
+## How do I get started with automating my Reddit account?
+We have YouTube demos and simple guides to help you get started. If anything is unclear, you can contact our support team—they’ll guide you through it. Just open a support ticket here: https://appilot.app/contact-us.
+
+
+## There are many similar projects on GitHub. What makes this one stand out? Why should I choose it over others?
+You’re right; there are many projects out there, but most of them no longer work or have been abandoned. 
+
+**Here’s why this one is different:**
+1. It’s the only bot for Android.
+2. No need for extra setup with ADB wires.
+3. Supports unlimited accounts and devices.
+4. It’s the only reliable solution still available.
+5. Integrated with ChatGPT.
+6. You can control the bot’s speed.
+7. You will never get banned using this bot
+
+
+These features make it the best choice right now.
+
+
 
