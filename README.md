@@ -35,7 +35,7 @@ Karma farming on Reddit involves strategically posting popular or engaging conte
 ## What is Good Farming from Reddit’s Point of View?
 In Reddit's ecosystem, the value of an account isn't only tied to karma; high engagement metrics are also essential, often indicating a real, invested audience. This bot emulates natural interactions by engaging with content through scrolling, upvoting, and commenting. As studies show, accounts with high engagement but low karma tend to be more valuable since they indicate authenticity. By mimicking natural user behaviors, this bot supports balanced karma farming.
 
-## Key Features of the Reddit Karma Farmeing Bot
+## Key Features of the Reddit Karma Farming Bot
 How is Karma Farming Done Through a Bot:
 
 | Feature                        | Description                                                                                             |
